@@ -1,0 +1,6 @@
+kitchen food
+library books
+bedroom bed
+parlor couch
+music_room piano
+
